@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android_VL_Recycler-View-Joke</string>
+    <string name="joke_1">Warum können Geister so schlecht lügen? Weil man durch sie hindurchsieht.</string>
+    <string name="joke_2">Was macht ein Pirat am Computer? Er drückt die Enter-Taste.</string>
+    <string name="joke_3">Warum gehen Ameisen nicht in die Kirche? Weil sie Insekten sind.</string>
+    <string name="joke_4">Was macht ein Keks unter einem Baum? Krümel.</string>
+    <string name="joke_5">Was ist orange und läuft durch den Wald? Eine Wanderine.</string>
+    <string name="joke_6">Wie nennt man ein Kaninchen im Fitnessstudio? Pumpernickel.</string>
+    <string name="joke_7">Warum können Enten so gut schwimmen? Weil sie Quakquak-Kräfte haben.</string>
+    <string name="joke_8">Was macht ein Hund am Strand? Wellen bellen.</string>
+    <string name="joke_9">Warum können Fahrräder nicht umfallen? Weil sie zweirädrig sind.</string>
+    <string name="joke_10">Was ist grün und rennt durch den Wald? Ein Rudel Gurken.</string>
+    <string name="joke_11">Warum können Skelette schlecht Streiche spielen? Weil sie kein Rückgrat haben.</string>
+    <string name="joke_12">Was ist braun und fliegt durch die Luft? Ein fliegender Teppich.</string>
+    <string name="joke_13">Warum ging der Pilz zur Party? Weil er ein Champignon ist.</string>
+    <string name="joke_14">Was macht ein Mathematiker beim Skifahren? Kurven berechnen.</string>
+    <string name="joke_15">Wie nennt man eine Gruppe von Wolfen? Ein Rudel WhatsApp.</string>
+    <string name="joke_16">Warum nehmen Piraten kein Bad? Weil sie sieben Meere haben.</string>
+    <string name="joke_17">Was macht ein Vampir beim Bäcker? Er holt sich einen Blutsauger.</string>
+    <string name="joke_18">Was ist klein, grün und dreieckig? Ein kleines, grünes Dreieck.</string>
+    <string name="joke_19">Warum können Elefanten nicht tanzen? Weil sie ihre Tanzschuhe nicht finden.</string>
+    <string name="joke_20">Was sagt der große Stift zum kleinen Stift? Wachs malstift.</string>
+</resources>
